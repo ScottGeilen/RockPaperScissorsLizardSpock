@@ -1,1 +1,1 @@
-# RPSLS
+# rock-paper-scissors
